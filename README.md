@@ -1,7 +1,5 @@
-# Avatar-Game
+# Avatar-Game (My First Game)
 TypeScript-coded game written in Visual Studio Code w/ custom graphics
-
-My first game
 
 Based on the TV Show, Avatar: The Last Airbender, this game is a shooting game. The objective is to prevent enemy ships from flying past your character by shooting elemental bullets at them. The player has three lives. Over time, the enemy ships move faster to challenge the player.
 
